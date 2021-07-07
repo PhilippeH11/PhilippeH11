@@ -1,5 +1,6 @@
 ### Hi there 👋
 Phil From :fr:
+- 🌱 I’m currently learning ...REACTJS
 <!--
 **PhilippeH11/PhilippeH11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
