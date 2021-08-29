@@ -1,6 +1,4 @@
-### Hi there 👋
-Phil From :fr:
-- 🌱 I’m currently learning ...ReactJS
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there%2C+this+is+Phil+H+from+FR;I'm+learning+react+js)](https://git.io/typing-svg)
 <!--
 **PhilippeH11/PhilippeH11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
