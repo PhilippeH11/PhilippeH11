@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-### Connect with me:
+** Connect with me:**
 
 [![img_contact](./img/globe-light.svg)](https://philippeh11.com#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://philippeh11.com#gh-dark-mode-only)
