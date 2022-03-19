@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 [![img_contact](./img/globe-light.svg)](https://philippeh11.com#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://philippeh11.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://philippeh11.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://philippeh11.com/youtube#gh-dark-mode-only)
+[![img_contact](./img/youtube-light.svg)](https://youtube.com/philippeh11.com/youtube#gh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](https://youtube.com/philippeh11.com/youtube#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/https://twitter.com/HarchoucheP#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/https://twitter.com/HarchoucheP#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/HarchoucheP#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/HarchoucheP#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/philippe-harchouche/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/philippe-harchouche/#gh-dark-mode-only)
